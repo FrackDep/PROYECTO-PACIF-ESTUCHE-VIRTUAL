@@ -23,49 +23,49 @@ const Usuarios = () => {
           <tr>
             <td>Valentina</td>
             <td>López</td>
-            <td>valentina@empresa.com</td>
+            <td>valentina@Estuche.com</td>
           </tr>
 
           <tr>
             <td>Isabella</td>
             <td>García</td>
-            <td>isabella@empresa.com</td>
+            <td>isabella@Estuche.com</td>
           </tr>
 
           <tr>
             <td>Camila</td>
             <td>Rodríguez</td>
-            <td>camila@empresa.com</td>
+            <td>camila@Estuche.com</td>
           </tr>
 
           <tr>
             <td>Mariana</td>
             <td>Martínez</td>
-            <td>mariana@empresa.com</td>
+            <td>mariana@Estuche.com</td>
           </tr>
 
           <tr>
             <td>Sofía</td>
             <td>Hernández</td>
-            <td>sofia@empresa.com</td>
+            <td>sofia@Estuche.com</td>
           </tr>
 
           <tr>
             <td>Lucía</td>
             <td>Torres</td>
-            <td>lucia@empresa.com</td>
+            <td>lucia@Estuche.com</td>
           </tr>
 
           <tr>
             <td>Antonella</td>
             <td>Ramírez</td>
-            <td>antonella@empresa.com</td>
+            <td>antonella@Estuche.com</td>
           </tr>
 
           <tr>
             <td>Emily</td>
             <td>Vargas</td>
-            <td>emily@empresa.com</td>
+            <td>emily@Estuche.com</td>
           </tr>
 
         </tbody>
