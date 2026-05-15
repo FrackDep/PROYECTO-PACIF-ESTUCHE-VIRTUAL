@@ -13,7 +13,7 @@ function CarritoProductos() {
 
       <hr />
 
-      <h3>Laptop</h3>
+      <h3>Cartulina</h3>
 
       <button onClick={() => setCantidadLaptop(cantidadLaptop - 1)}>
         -
@@ -29,7 +29,7 @@ function CarritoProductos() {
 
       <hr />
 
-      <h3>Mouse</h3>
+      <h3>Boligrafo</h3>
 
       <button onClick={() => setCantidadMouse(cantidadMouse - 1)}>
         -
